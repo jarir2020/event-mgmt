@@ -15,15 +15,15 @@ Event Management System
 2. Each host has his own dashboard.
 3. Each host can Create, View , Update, Delete Events.
 4. Events Have name, description, date and max capacity.
-5. In login page, Event registration link is given, where users can browse events and register
-6. Host can download event registration information as CSV file from his/her dashboard.
+5. In the login page, an Event registration link is given, where users can browse events and register
+6. Host can download event registration information as a CSV file from his/her dashboard.
 7. Live Project Link: http://event-mgmt.rf.gd/ (Due to using free hosting, I don't have SSL, so it might say dangerous website)
-8. An API is implemented to fetch all the events with details information as JSON at once. API Link: http://event-mgmt.rf.gd/event_fetch_api.php
+8. An API is implemented to fetch all the events with detailed information as JSON at once. API Link: http://event-mgmt.rf.gd/event_fetch_api.php
 
 #Features:
 1. Used Prepared SQL statements to prevent SQL injection.
 2. Smooth user experience. Pages don't refresh after data submission.
-3. Good Looking host dashboard, due to using popup modals in to create and edit events.
+3. Good Looking host dashboard, due to using popup modals to create and edit events.
 4. Pagination is used to show 5 data per page.
 5. Search and Sorting functionality available.
-6. An API is implemented to fetch all the events with details information as JSON at once. API Link: http://event-mgmt.rf.gd/event_fetch_api.php
+6. An API is implemented to fetch all the events with detailed information as JSON at once. API Link: http://event-mgmt.rf.gd/event_fetch_api.php
